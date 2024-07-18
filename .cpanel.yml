@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/d590h9pz4me6/public-html/PJFPyDemo
+    - export DEPLOYPATH=/home/d590h9pz4me6/public_html/PJFPyDemo
     - /bin/cp app.py $DEPLOYPATH
